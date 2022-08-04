@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Furnite/static/js/main.83266845.chunk.js",
-    "main.js.map": "/Furnite/static/js/main.83266845.chunk.js.map",
+    "main.js": "/Furnite/static/js/main.7e100224.chunk.js",
+    "main.js.map": "/Furnite/static/js/main.7e100224.chunk.js.map",
     "runtime-main.js": "/Furnite/static/js/runtime-main.603055fb.js",
     "runtime-main.js.map": "/Furnite/static/js/runtime-main.603055fb.js.map",
     "static/js/2.9ad1ce0f.chunk.js": "/Furnite/static/js/2.9ad1ce0f.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.603055fb.js",
     "static/js/2.9ad1ce0f.chunk.js",
-    "static/js/main.83266845.chunk.js"
+    "static/js/main.7e100224.chunk.js"
   ]
 }
