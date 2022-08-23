@@ -2,6 +2,9 @@
 
 Furnite is a furniture Ecommerce
 
+## Live Demo:
+https://ibrahemnaser.github.io/Furnite/home
+
 ## Technology Used
 
 - ReactJs
