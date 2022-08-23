@@ -3,7 +3,7 @@
 Furnite is a furniture Ecommerce
 
 ## Live Demo:
-https://ibrahemnaser.github.io/Furnite/home
+https://ibrahemnaser.github.io/Furnite
 
 ## Technology Used
 
